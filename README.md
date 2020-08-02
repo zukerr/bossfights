@@ -1,2 +1,2 @@
 # bossfights
-Simple arcade game idea
+Simple arcade game idea.
